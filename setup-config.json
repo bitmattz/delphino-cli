@@ -1,0 +1,18 @@
+{
+    "packages": [
+        "express",
+        "dotenv",
+        "mongoose",
+        "cors",
+        "nodemon"
+    ],
+    "folders": [
+        "src",
+        "src/controllers",
+        "src/models",
+        "src/routes",
+        "src/middleware",
+        "config",
+        "public"
+    ]
+}
